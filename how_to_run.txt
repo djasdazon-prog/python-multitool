@@ -1,1 +1,8 @@
+py image_to_ascii.py
+python image_to_ascii.py
 
+py link_to_qr.py
+python link_to_qr.py
+
+py file_converter.py
+python file_converter.py
